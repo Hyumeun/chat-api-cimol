@@ -1,0 +1,25 @@
+{
+  "name": "chat-api-cimol",
+  "version": "1.0.0",
+  "description": "descricao qualquer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hyumeun/chat-api-cimol.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Rafael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hyumeun/chat-api-cimol/issues"
+  },
+  "homepage": "https://github.com/Hyumeun/chat-api-cimol#readme",
+  "dependencies": {
+    "mongodb": "^6.0.0"
+  }
+}
